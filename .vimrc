@@ -32,7 +32,7 @@ set hlsearch
 syntax enable
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Colorscheme
+" Solarized (http://ethanschoonover.com/solarized)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "colorscheme solarized
 set background=dark
