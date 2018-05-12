@@ -31,13 +31,14 @@ set autoindent
 set number
 set showmatch
 set hlsearch
-syntax enable
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Solarized (http://ethanschoonover.com/solarized)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"colorscheme solarized
+syntax enable
 set background=dark
+let g:solarized_termcolors=256
+colorscheme solarized
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " NERDtree (https://github.com/scrooloose/nerdtree)
