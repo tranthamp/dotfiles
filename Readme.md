@@ -1,3 +1,11 @@
+## Install script
+
+This will automatically install the settings and attempt backup existing settings.
+
+```
+./install.sh
+```
+
 ## Vim settings
 
 ### Install the .vimrc
